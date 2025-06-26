@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "mcp-tube-transcriber": {
+            "command": "<absolute path>/mcp-tube-transcriber/.venv/bin/mcp",
+            "args": [
+                "run",
+                "<absolute path>/mcp-tube-transcriber/server.py"
+            ]
+        }
+    }
+}
